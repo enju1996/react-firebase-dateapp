@@ -16,7 +16,7 @@ const twitter_login_config = {
 };
 
   
-Geocoder.init("AIzaSyBggxkT_8UuI1vzXR0fKCzKmX7zdwXMsU8", {language : "en"}); // set the language
+Geocoder.init( /* Geocoder 추가*/'', {language : "en"}); // set the language
 
 // Initialize Firebase
 firebase.initializeApp(firebaseConfig);
