@@ -1,3 +1,4 @@
+
 import firebase from 'firebase';
 import OAuthManager from 'react-native-oauth';
 import Geocoder from 'react-native-geocoding';
@@ -27,6 +28,3 @@ export const database = firebase.database();
 export const storage = firebase.storage();
 export {firebase}
 export {google_login_config, twitter_login_config}
-    
-
-  
