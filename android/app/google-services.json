@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "607443651812",
+    "firebase_url": "https://dateapp-android-c2159.firebaseio.com",
+    "project_id": "dateapp-android-c2159",
+    "storage_bucket": "dateapp-android-c2159.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:607443651812:android:6df7ff28657e2204",
+        "android_client_info": {
+          "package_name": "com.dateapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "607443651812-84gmqk52fjefv3a2curmn2p9iu6s3dv9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dateapp",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "607443651812-ua5p9tktt8gis09751u9pfc7mro0lepe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBggxkT_8UuI1vzXR0fKCzKmX7zdwXMsU8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "607443651812-ua5p9tktt8gis09751u9pfc7mro0lepe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

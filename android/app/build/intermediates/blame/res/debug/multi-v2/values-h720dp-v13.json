@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/limenju/react-native-project/DATEAPP/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-h720dp-v13/values-h720dp-v13.xml",
+            "map": [
+                {
+                    "source": "/home/limenju/.gradle/caches/transforms-2/files-2.1/cccf3471a8d2c69923f34ec4e4c6aae2/res/values-h720dp-v13/values-h720dp-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "66",
+                        "endOffsets": "117"
+                    }
+                }
+            ]
+        }
+    ]
+}
