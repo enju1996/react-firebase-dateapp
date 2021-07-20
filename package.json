@@ -14,7 +14,7 @@
     "firebase-admin": "^8.3.0",
     "native-base": "^2.13.4",
     "react": "16.8.6",
-    "react-native": "0.60.4",
+    "react-native": "0.62.3",
     "react-native-element": "^1.2.1",
     "react-native-elements": "^1.1.0",
     "react-native-fbsdk": "git+https://github.com/facebook/react-native-fbsdk.git",
