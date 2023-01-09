@@ -11,7 +11,7 @@
     "@react-native-community/geolocation": "^2.0.2",
     "dateformat": "^3.0.3",
     "firebase": "^6.3.4",
-    "firebase-admin": "^8.3.0",
+    "firebase-admin": "^11.4.1",
     "native-base": "^2.13.4",
     "react": "16.8.6",
     "react-native": "0.60.4",
